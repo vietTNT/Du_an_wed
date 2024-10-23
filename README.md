@@ -1,2 +1,1 @@
-wed_dang_ki.html
-wed_dang_ki.css
+Du_an_wed
